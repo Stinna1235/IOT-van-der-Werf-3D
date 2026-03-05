@@ -1,0 +1,23 @@
+Teams, Opdrachtgever, Tutor en lokaal
+
+Opdracht | Opdrachtgever | Tutor               | Teams                         | Vast lokaal
+-------------------------------------------------------------------------------------------
+1        | Van der Werf  | Maybel Wolfrath     | A1, C5, D3, E2, F3, G1        | A2.18
+2        | Citeq         | Erik Roos           | A2, C4, D4, E3, F5, G2        | A2.27
+3        | FysiofitApp   | Kim van Adrichem    | A3, C3, D5, E4, F1, G4        | A2.30
+4        | Leihothek     | Misja Hoebe         | A4, C2, D1, (D6+E6), F4, E5   | A2.51
+5        | Warpnet       | Arnold van Hofwegen | A5, C1, D2, E1, F2, G3, G5    | A2.57
+
+
+Planning Sessies en Demo's
+
+Sessie               | Datum            | Tijd
+---------------------------------------------------------
+Requirements sessie  | 20 februari 2026 | 8:30 – 10:30
+Demo 1               | 13 maart 2026    | 8:30 – 10:30
+Demo 2               | 27 maart 2026    | 8:30 – 10:30
+Demo 3               | 10 april 2026    | 8:30 – 10:30
+Demo 4               | 24 april 2026    | 8:30 – 10:30
+Demo 5               | 22 mei 2026      | 8:30 – 10:30
+Demo 6               | 5 juni 2026      | 8:30 – 10:30
+Demo 7               | 19 juni 2026     | 8:30 – 10:30
