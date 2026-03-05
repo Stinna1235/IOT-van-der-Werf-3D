@@ -78,12 +78,12 @@ Niet-functionele reguirements (NFR)
 
 NFR-01: De software moet eenvoudig te gebruiken zijn voor machinisten. 
 
-NFR-01: Het systeem moet een nieuwe maairoute berekenen binnen een korte tijd. 
+NFR-02: Het systeem moet een nieuwe maairoute berekenen binnen een korte tijd. 
 
-NFR-01: De sensor moet betrouwbare metingen uitvoeren (lage foutmarge) 
+NFR-03: De sensor moet betrouwbare metingen uitvoeren (lage foutmarge) 
 
-NFR-01: Het systeem moet data kunnen exporteren of importeren voor analyse. 
+NFR-04: Het systeem moet data kunnen exporteren of importeren voor analyse. 
 
-NFR-01: Het systeem moet bijdragen aan efficiënter maaien en minder brandstofgebruik. 
+NFR-05: Het systeem moet bijdragen aan efficiënter maaien en minder brandstofgebruik. 
 
-NFR-01: Het systeem moet bijdragen aan CO₂-reductie door efficiëntere routes. 
+NFR-06: Het systeem moet bijdragen aan CO₂-reductie door efficiëntere routes. 
