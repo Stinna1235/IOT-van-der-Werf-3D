@@ -1,0 +1,89 @@
+Requirements Project Internet of Things I: Van der Werf 
+
+ 
+
+Categorisatie functionele requirements: 
+
+Systeem (SYS) 
+
+    Combinatie van alle onderdelen samen, het geheel. 
+
+Sensor (SEN) 
+
+    Het fysieke apparaat dat onder de maaimachine wordt geplaatst. De sensor moet ruwe data uit de fysieke wereld meten en verzamelen. 
+
+Software (SW) 
+
+    Het computerprogramma dat de gegevens van de sensor moet verwerken. De software verwerkt en analyseert de data. 
+
+ 
+
+Functionele requirements 
+
+SYS-01: Het systeem moet een sensor bevatten die de hoogte van gras kan meten. 
+
+SYS-02: Het systeem moet per meetpunt de locatie registreren via coördinaten in een Geografisch Informatiesysteem (GIS). 
+
+SYS-03: Het systeem moet grashoogte en locatiegegevens opslaan in een database. 
+
+SYS-04: Het systeem moet metingen automatisch uitvoeren zonder handmatige invoer. 
+
+SYS-05: Het systeem moet bepalen of er te vroeg of te laat gemaaid is op basis van de gemeten hoogte. 
+
+SYS-06: Het systeem moet automatisch de meest efficiënte maairoute berekenen. 
+
+SYS-07: Het systeem moet de route kunnen aanpassen op basis van nieuwe meetgegevens. 
+
+SYS-08: Het systeem moet de machinist kunnen aantonen waar gemaaid is. 
+
+ 
+
+SEN-01: De sensor moet de hoogte van het gras kunnen meten tijdens het maaien. 
+
+SEN-02: De sensor moet grashoogte meten in centimeter (cm). 
+
+SEN-03: De sensor moet meetdata kunnen doorsturen naar het softwareprogramma. 
+
+SEN-04: De sensor moet metingen kunnen uitvoeren terwijl de maaimachine beweegt. 
+
+SEN-05: De sensor moet continu metingen kunnen uitvoeren tijdens de maaibeurt. 
+
+SEN-06: De sensor moet in realtime metingen kunnen uitvoeren tijdens de maaibeurt. 
+
+SEN-07: De sensor moet bestand zijn tegen regen en vuiligheid. 
+
+SEN-08: De sensor moet bestand zijn tegen trillingen en botsingen. 
+
+ 
+
+ 
+
+SW-01: De software moet gemeten gegevens van de sensor kunnen ontvangen. 
+
+SW-02: De software moet gemeten data opslaan in een database. 
+
+SW-03: De software moet metingen koppelen aan geografische locaties. 
+
+SW-04: De software moet locaties kunnen vastleggen in een GIS-programma. 
+
+SW-05: De software moet data analyseren en bepalen of gras te vroeg of laat is gemaaid. 
+
+SW-06: De software moet een optimale maairoute berekenen op basis van verzamelde data. 
+
+SW-07: De software moet de maairoute dynamisch aanpassen wanneer nieuwe data binnenkomt. 
+
+ 
+
+Niet-functionele reguirements (NFR) 
+
+NFR-01: De software moet eenvoudig te gebruiken zijn voor machinisten. 
+
+NFR-01: Het systeem moet een nieuwe maairoute berekenen binnen een korte tijd. 
+
+NFR-01: De sensor moet betrouwbare metingen uitvoeren (lage foutmarge) 
+
+NFR-01: Het systeem moet data kunnen exporteren of importeren voor analyse. 
+
+NFR-01: Het systeem moet bijdragen aan efficiënter maaien en minder brandstofgebruik. 
+
+NFR-01: Het systeem moet bijdragen aan CO₂-reductie door efficiëntere routes. 
