@@ -1,0 +1,25 @@
+Rolverdeling Project Internet of Things I 
+
+Team: D3
+
++---------------+-------------------+---------------------+
+| Periode       | Scrum Master      | Product Owner       |
++---------------+-------------------+---------------------+
+| Sprint 0 en 1 | Qiwei en Sydney   | Stijn               |
+| Sprint 2 en 3 | Brent             | Matthijs en Sydney  |
+| Sprint 4 en 5 | Stijn             | Qiwei               |
+| Sprint 6 en 7 | Matthijs          | Brent               |
++---------------+-------------------+---------------------+
+
+Planning Daily Stand-ups
+
+Sprint 1 (Scrum Master: Qiwei & Sydney)
+
+- 3 Daily Stand-ups per week (indien mogelijk)
+- Fysiek, tussen lessen door
+- In de voorjaarsvakantie via Discord, online
+- Na voorjaarsvakantie: Sprint Retrospective
+
+Per week:
+Maandag, Woensdag, Vrijdag
+Tijdstip afhankelijk van schoolrooster (opnemen in documentatie)
